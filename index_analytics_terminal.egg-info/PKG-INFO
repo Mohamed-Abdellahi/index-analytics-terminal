@@ -1,0 +1,14 @@
+Metadata-Version: 2.1
+Name: index-analytics-terminal
+Version: 1.0.0
+Summary: Terminal tool to simulate index rebalancing effects and dividend shocks
+Author: Mohamed Abdellahi
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Office/Business :: Financial
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# index-analytics-terminal
