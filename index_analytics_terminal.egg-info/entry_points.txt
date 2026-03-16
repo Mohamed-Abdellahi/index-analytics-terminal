@@ -1,2 +1,0 @@
-[console_scripts]
-iat = index_analytics_terminal.cli:main
